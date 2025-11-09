@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-
 int main(){
     int n,k;
     cin>>n>>k;
@@ -11,4 +10,5 @@ int main(){
         cout<<2*(k-odd)<<endl;
     }
 }
+
 
